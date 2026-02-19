@@ -1,6 +1,5 @@
 # Apple-iTunes-Music-Store---Analytics-Business-Intelligence-Report
 
-This is a professional README.md file for your Apple iTunes Music Store Analysis project, designed for a GitHub repository. It highlights your technical workflow and the business value of your findings.
 
 🎵 Apple iTunes Music Store: Business Intelligence & SQL Analytics
 📌 Project Overview
